@@ -1,0 +1,64 @@
+{
+  "flyway_schema_history": [
+    {
+      "installed_rank": 1,
+      "version": null,
+      "description": "alius",
+      "type": "toties",
+      "script": "cito",
+      "checksum": null,
+      "installed_by": "arbitro",
+      "installed_on": "2025-01-11T13:26:26.234Z",
+      "execution_time": 1818195798407476,
+      "success": true
+    },
+    {
+      "installed_rank": 2,
+      "version": "argentum",
+      "description": "utrum",
+      "type": "natus",
+      "script": "admitto",
+      "checksum": 8692247902129603,
+      "installed_by": "usus",
+      "installed_on": "2025-12-19T23:18:20.249Z",
+      "execution_time": 1189624423892839,
+      "success": true
+    },
+    {
+      "installed_rank": 3,
+      "version": "exercitationem",
+      "description": "amo",
+      "type": "tam",
+      "script": "candidus",
+      "checksum": 5650903234865405,
+      "installed_by": "cumque",
+      "installed_on": "2025-09-18T18:50:17.303Z",
+      "execution_time": 6465461351210834,
+      "success": false
+    },
+    {
+      "installed_rank": 4,
+      "version": "socius",
+      "description": "cras",
+      "type": "contego",
+      "script": "certe",
+      "checksum": 7540698696570283,
+      "installed_by": "solium",
+      "installed_on": "2025-02-14T12:48:10.885Z",
+      "execution_time": 6949873846294322,
+      "success": true
+    },
+    {
+      "installed_rank": 5,
+      "version": "certe",
+      "description": "cena",
+      "type": "ars",
+      "script": "succedo",
+      "checksum": 2965700168196640,
+      "installed_by": "utrimque",
+      "installed_on": "2025-10-20T17:43:46.278Z",
+      "execution_time": 2091896054506233,
+      "success": true
+    }
+  ]
+}
